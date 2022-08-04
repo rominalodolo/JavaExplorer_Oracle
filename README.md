@@ -75,13 +75,17 @@ Describe application deployment
 Java Arrays and collections 
 An array is a simple group of elements, the collection API provides more flexible capabilities for managing group of objects 
 ![api](https://user-images.githubusercontent.com/83961643/182801860-0df61dab-d190-4806-b7de-73d6aaf06a5f.jpeg)
-
 ![api](https://user-images.githubusercontent.com/83961643/182802190-984aa1b7-a7c1-4071-b4c5-bfc475edd64b.jpeg)
-
 ![api2](https://user-images.githubusercontent.com/83961643/182802286-8e9fbc98-b7c9-4524-8d27-775c7204c294.jpeg)
+![api3](https://user-images.githubusercontent.com/83961643/182802805-50d2d2f8-ee47-4576-8ea3-14acc81f0113.jpeg)
 
 
 - Java in the Enterprise 
-
+Expose code to the enterprise for reuse in a controlled, standardized manner. like SOAP and REST 
+JAXB and JAXP API's enable object mappings, marshaling, unmarshaling 
+JSONP API enables JSON object mappings, marshaling and unmarshaling 
+JAX-WS API enables SOAP Servive impementation
+JAX-RS API enables REST Service implementation 
+![soap](https://user-images.githubusercontent.com/83961643/182803546-302e0f15-b985-44bd-89e8-772522dd38c4.jpeg)
 
 
