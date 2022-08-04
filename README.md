@@ -148,3 +148,7 @@ Class:
 
 Object: 
 ![ob](https://user-images.githubusercontent.com/83961643/182821049-e410503c-a0f0-45b5-bc05-7d1bdd488e9a.jpeg)
+
+
+![OOP_4p](https://user-images.githubusercontent.com/83961643/182822017-dbb87e02-4e5b-4a5f-a854-fa3bfde99a9c.png)
+- [reference](https://www.imaginarycloud.com/blog/the-dos-and-donts-of-oop/)
