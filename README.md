@@ -82,10 +82,19 @@ An array is a simple group of elements, the collection API provides more flexibl
 
 - Java in the Enterprise 
 Expose code to the enterprise for reuse in a controlled, standardized manner. like SOAP and REST 
+
 JAXB and JAXP API's enable object mappings, marshaling, unmarshaling 
+
 JSONP API enables JSON object mappings, marshaling and unmarshaling 
+
 JAX-WS API enables SOAP Servive impementation
+
 JAX-RS API enables REST Service implementation 
 ![soap](https://user-images.githubusercontent.com/83961643/182803546-302e0f15-b985-44bd-89e8-772522dd38c4.jpeg)
 
+
+Java EE Application Server logic _(WebLogic)_
+"Java EE applications are actually deployed to a server in order to execute. While Java Standard Edition applications can run from the command line, Java EE applications have to be deployed to a server like WebLogic or WebSphere, JBoss, or Tomcat. These types of servers or containers host Java EE applications. They provide support for enterprise Java Bean, which implement reusable logic and web containers. Here, for example, we see the web container supporting front-end components like servlets, Java Server Pages, and Java Server Faces. And the EJB container supports business logic and back-end components."
+
+![jhgblkvfxvdz](https://user-images.githubusercontent.com/83961643/182803858-9cbb096b-9498-424f-87a4-247ae11d00d5.jpeg)
 
