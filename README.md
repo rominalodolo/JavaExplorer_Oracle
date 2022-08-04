@@ -136,8 +136,8 @@ Procedural programming is a programming paradigm built around the idea that prog
 
 In procedural programming, the program is divided into small parts called functions. In object-oriented programming, the program is divided into small parts called objects. Procedural programming follows a top-down approach. Object-oriented programming follows a bottom-up approach. - [reference](https://www.geeksforgeeks.org/differences-between-procedural-and-object-oriented-programming/)
 
-![9332 1585228697](https://user-images.githubusercontent.com/83961643/182816151-bc8a137f-4e00-4408-acdc-055c1f7a01a2.jpg)
-- [reference](https://devopedia.org/object-oriented-programming-concepts)
+> ![9332 1585228697](https://user-images.githubusercontent.com/83961643/182816151-bc8a137f-4e00-4408-acdc-055c1f7a01a2.jpg)
+> [reference](https://devopedia.org/object-oriented-programming-concepts)
 
 [More on Object-Oriented Programming vs. Procedural Programming](https://study.com/academy/lesson/object-oriented-programming-vs-procedural-programming.html)
 
@@ -150,5 +150,5 @@ Object:
 ![ob](https://user-images.githubusercontent.com/83961643/182821049-e410503c-a0f0-45b5-bc05-7d1bdd488e9a.jpeg)
 
 
-![OOP_4p](https://user-images.githubusercontent.com/83961643/182822017-dbb87e02-4e5b-4a5f-a854-fa3bfde99a9c.png)
-- [reference](https://www.imaginarycloud.com/blog/the-dos-and-donts-of-oop/)
+> ![OOP_4p](https://user-images.githubusercontent.com/83961643/182822017-dbb87e02-4e5b-4a5f-a854-fa3bfde99a9c.png)
+> [reference](https://www.imaginarycloud.com/blog/the-dos-and-donts-of-oop/)
