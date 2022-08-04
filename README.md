@@ -98,3 +98,13 @@ Java EE Application Server logic _(WebLogic)_
 
 ![jhgblkvfxvdz](https://user-images.githubusercontent.com/83961643/182803858-9cbb096b-9498-424f-87a4-247ae11d00d5.jpeg)
 
+
+## Java Basics 
+- The Audience for this course are beginners, novice programmers and OPC students who want to get certified 
+- Objectives
+- lesson format
+
+![e1](https://user-images.githubusercontent.com/83961643/182805718-3ddc4c00-c0c5-4d22-973a-3c20ef6adb7b.jpeg)
+
+
+## 
