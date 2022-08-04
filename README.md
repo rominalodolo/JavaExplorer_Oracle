@@ -20,5 +20,21 @@ This learning path covers:
 - Inheritance and Interfaces
 - Java on OCI
 
->> 7+ Hours
+> 7+ Hours
+
+## Overview 
+
+- Title and Objectives 
+
+- Java Origins and Ecosystem
+
+- Java Language 
+
+- Java Design 
+
+- Java API's 
+
+- Java in the Enterprise 
+
+
 
