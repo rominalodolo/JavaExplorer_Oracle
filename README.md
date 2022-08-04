@@ -161,3 +161,18 @@ Object:
 ![gfz](https://user-images.githubusercontent.com/83961643/182823428-c3d600fe-e8d3-46bc-aa08-a9dfd7387846.jpeg)
 
 ![db](https://user-images.githubusercontent.com/83961643/182823437-3bfb2293-8418-4b25-8109-1d48efe345e9.jpeg)
+
+![zgrjvv](https://user-images.githubusercontent.com/83961643/182826046-0bb4f6f5-c737-4d73-bee7-c99102461c0b.jpeg)
+
+
+> <img width="1263" alt="oopBike" src="https://user-images.githubusercontent.com/83961643/182826676-f9f60fd7-e6e4-406b-8630-db9b373a3b4b.png">
+> 
+> [reference](https://bournetocode.com/projects/AQA_A_Theory/pages/OOP.html)
+> 
+> ![15452218134233_Capture d’écran 2018-12-19 à 13 16 39](https://user-images.githubusercontent.com/83961643/182827251-c2ae0f27-6f62-4e94-a90d-7648aae37647.png)
+> 
+> [reference](https://openclassrooms.com/en/courses/5667431-learn-programming-with-java/5906497-define-objects-and-their-attributes-with-classes)
+
+
+
+
