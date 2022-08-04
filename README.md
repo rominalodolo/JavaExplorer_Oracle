@@ -109,4 +109,7 @@ Java EE Application Server logic _(WebLogic)_
 Virtual network computing (VNC) is a type of remote-control software that makes it possible to control another computer over a network connection.
 
 
-## 
+## Practical Object-Orientated Concepts 
+
+### Part 1: 
+![tfg](https://user-images.githubusercontent.com/83961643/182810802-713ed368-895b-4eea-8784-0318e47b58c1.jpeg)
