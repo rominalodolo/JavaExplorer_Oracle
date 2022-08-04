@@ -124,3 +124,5 @@ Case:
 ![case](https://user-images.githubusercontent.com/83961643/182813825-fabd1135-f655-4a38-8137-f3677148371b.jpeg)
 
 _Anthropomorphism is the attribution of human traits, emotions, or intentions to non-human entities. It is considered to be an innate tendency of human psychology._
+
+![oop](https://user-images.githubusercontent.com/83961643/182814508-d89b1934-a44c-4a02-8220-d3f76a3bc71e.jpeg)
