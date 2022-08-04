@@ -157,3 +157,7 @@ Object:
 
 
 ## Practical OOP Concepts 
+
+![gfz](https://user-images.githubusercontent.com/83961643/182823428-c3d600fe-e8d3-46bc-aa08-a9dfd7387846.jpeg)
+
+![db](https://user-images.githubusercontent.com/83961643/182823437-3bfb2293-8418-4b25-8109-1d48efe345e9.jpeg)
