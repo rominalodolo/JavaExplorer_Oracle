@@ -115,7 +115,7 @@ Virtual network computing (VNC) is a type of remote-control software that makes 
 ![tfg](https://user-images.githubusercontent.com/83961643/182810802-713ed368-895b-4eea-8784-0318e47b58c1.jpeg)
 
 ![smal](https://user-images.githubusercontent.com/83961643/182811536-cb0779b5-2ba6-4f9a-9b80-7ca168156354.jpeg)
-![04_full](https://user-images.githubusercontent.com/83961643/182811710-0c019686-1cd0-458c-8d9b-28c225879181.jpeg)
 PARC - ![04_full](https://user-images.githubusercontent.com/83961643/182811880-aace65f0-8340-4d88-a102-ba6d2c212eaa.jpeg)
 
+![rthsdfgxv](https://user-images.githubusercontent.com/83961643/182812025-6c17dba8-7d48-44bb-998d-b7e6ff1ba039.jpeg)
 
