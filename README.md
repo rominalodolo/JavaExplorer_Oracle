@@ -143,4 +143,5 @@ In procedural programming, the program is divided into small parts called functi
 
 [Functional vs. Procedural vs. Object-Oriented Programming](https://scoutapm.com/blog/functional-vs-procedural-vs-oop)
 
-
+Class: 
+![class](https://user-images.githubusercontent.com/83961643/182819793-48ed4914-c34c-4d86-a86e-4d7d6f4e14ec.jpeg)
