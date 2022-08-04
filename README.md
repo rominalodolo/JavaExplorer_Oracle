@@ -115,6 +115,7 @@ Virtual network computing (VNC) is a type of remote-control software that makes 
 ![tfg](https://user-images.githubusercontent.com/83961643/182810802-713ed368-895b-4eea-8784-0318e47b58c1.jpeg)
 
 ![smal](https://user-images.githubusercontent.com/83961643/182811536-cb0779b5-2ba6-4f9a-9b80-7ca168156354.jpeg)
+
 PARC - ![04_full](https://user-images.githubusercontent.com/83961643/182811880-aace65f0-8340-4d88-a102-ba6d2c212eaa.jpeg)
 
 ![rthsdfgxv](https://user-images.githubusercontent.com/83961643/182812025-6c17dba8-7d48-44bb-998d-b7e6ff1ba039.jpeg)
@@ -141,4 +142,5 @@ In procedural programming, the program is divided into small parts called functi
 [More on Object-Oriented Programming vs. Procedural Programming](https://study.com/academy/lesson/object-oriented-programming-vs-procedural-programming.html)
 
 [Functional vs. Procedural vs. Object-Oriented Programming](https://scoutapm.com/blog/functional-vs-procedural-vs-oop)
+
 
