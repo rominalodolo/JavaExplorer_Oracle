@@ -76,6 +76,9 @@ Java Arrays and collections
 An array is a simple group of elements, the collection API provides more flexible capabilities for managing group of objects 
 ![api](https://user-images.githubusercontent.com/83961643/182801860-0df61dab-d190-4806-b7de-73d6aaf06a5f.jpeg)
 
+![api](https://user-images.githubusercontent.com/83961643/182802190-984aa1b7-a7c1-4071-b4c5-bfc475edd64b.jpeg)
+
+![api2](https://user-images.githubusercontent.com/83961643/182802286-8e9fbc98-b7c9-4524-8d27-775c7204c294.jpeg)
 
 
 - Java in the Enterprise 
