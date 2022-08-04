@@ -129,4 +129,16 @@ _Anthropomorphism is the attribution of human traits, emotions, or intentions to
 
 ![gardbf](https://user-images.githubusercontent.com/83961643/182814788-b4e7c302-7d02-431c-831f-c14472c3461a.jpeg)
 
+### Procedural Programming 
+Procedural programming is a programming paradigm built around the idea that programs are sequences of instructions to be executed. They focus heavily on splitting up programs into named sets of instructions called procedures, analogous to functions.
+
+
+In procedural programming, the program is divided into small parts called functions. In object-oriented programming, the program is divided into small parts called objects. Procedural programming follows a top-down approach. Object-oriented programming follows a bottom-up approach. - [reference](https://www.geeksforgeeks.org/differences-between-procedural-and-object-oriented-programming/)
+
+![9332 1585228697](https://user-images.githubusercontent.com/83961643/182816151-bc8a137f-4e00-4408-acdc-055c1f7a01a2.jpg)
+- [reference](https://devopedia.org/object-oriented-programming-concepts)
+
+[More on Object-Oriented Programming vs. Procedural Programming](https://study.com/academy/lesson/object-oriented-programming-vs-procedural-programming.html)
+
+[Functional vs. Procedural vs. Object-Oriented Programming](https://scoutapm.com/blog/functional-vs-procedural-vs-oop)
 
