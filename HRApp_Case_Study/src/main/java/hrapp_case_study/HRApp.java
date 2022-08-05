@@ -22,6 +22,8 @@ public class HRApp {
         }
 
         System.out.println("Total " + dept.getTotalSalary());
+        System.out.println("Average " + dept.getAverageSalary());
+        System.out.println("Employee " + dept.getEmployeeByID(420));
 
 //        System.out.println(e1);
 //        System.out.println(e2);
