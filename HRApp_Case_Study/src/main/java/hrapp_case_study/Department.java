@@ -4,7 +4,7 @@ public class Department {
 
     private String name;
 
-    private Employee[] emps = new Employee[10];
+    private Employee[] employees = new Employee[10];
 
     public Department(String name) {
         this.name = name;
@@ -20,7 +20,10 @@ public class Department {
     }
 
     public void addEmp (Employee anEmployee) {
-        if (lastAddedEMployeeIndex < )
+        if (lastAddedEmployeeIndex < employees.length) {
+            lastAddedEmployeeIndex++;
+            employees[lastAddedEmloyeeindex]= anEmployee;
+        }
     }
 
 }
