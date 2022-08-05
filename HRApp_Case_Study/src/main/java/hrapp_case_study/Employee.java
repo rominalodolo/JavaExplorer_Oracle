@@ -5,6 +5,12 @@ public class Employee {
     private String name;
     private double salary;
 
+    public Employee(int ID, String name, double salary) {
+        this.ID = ID;
+        this.name = name;
+        this.salary = salary;
+    }
+
     public int getID() {
         return ID;
     }
@@ -27,5 +33,9 @@ public class Employee {
 
     public void setSalary(double salary) {
         this.salary = salary;
+    }
+
+    public String toString() {
+        return "Employee ID: " + getID() + "/n" + "Name: " + getName() + "Salary: " + System.lineSeparator() + getSalary();
     }
 }
