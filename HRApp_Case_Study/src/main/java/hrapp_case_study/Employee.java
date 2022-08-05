@@ -36,6 +36,6 @@ public class Employee {
     }
 
     public String toString() {
-        return "Employee ID: " + getID() + "/n" + "Name: " + getName() + "Salary: " + System.lineSeparator() + getSalary();
+        return "Employee ID: " + getID() +  System.lineSeparator() + "Name: " + getName() + System.lineSeparator() + "Salary: " + getSalary() + System.lineSeparator();
     }
 }
