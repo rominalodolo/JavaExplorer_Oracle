@@ -42,8 +42,10 @@ public class Department {
 
     public Employee getEmployeeByID(int empId) {
         for (Employee emp: employees){
-            if (emp.getID() == (empId)){
-                return emp;
+            if (emp != null){
+                if (emp.getID() == (empId)){
+                    return emp;
+                }
             }
         }
         return null;
@@ -64,5 +66,8 @@ public class Department {
         return 0.0;
     }
 
+    public String toString() {
+        return name;
+    }
 
 }
