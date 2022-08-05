@@ -188,6 +188,10 @@ Object:
 ## What is a Java program
 
 
+## Case Study 
+![case](https://user-images.githubusercontent.com/83961643/183069892-ea3540fa-3e49-4906-a22a-b59c78fa1020.jpeg)
+
+![wrgad](https://user-images.githubusercontent.com/83961643/183069925-a48635dd-167d-46db-9533-43851d0f89c3.jpeg)
 
 
 ## Last Edit August 2022
