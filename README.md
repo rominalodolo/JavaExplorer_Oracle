@@ -190,7 +190,8 @@ Object:
 Purpose of a computer program:
 A computer program is a set of instructions that run on a computer or another digital divice. 
 - At the machine level, the program consists of binary instructions (1, & 0's). 
-- Most programs are written in High-level code (readable).
+
+Most programs are written in High-level code (readable).
 - It must be translated to machine code
 
 ## Case Study 
