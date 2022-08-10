@@ -187,6 +187,11 @@ Object:
 
 ## What is a Java program
 
+Purpose of a computer program:
+A computer program is a set of instructions that run on a computer or another digital divice. 
+- At the machine level, the program consists of binary instructions (1, & 0's). 
+- Most programs are written in High-level code (readable).
+- It must be translated to machine code
 
 ## Case Study 
 ![case](https://user-images.githubusercontent.com/83961643/183069892-ea3540fa-3e49-4906-a22a-b59c78fa1020.jpeg)
